@@ -1,9 +1,10 @@
+![jojo|1000](https://github.com/I3EKA/I3EKA/blob/main/ezgif.com-video-to-gif.gif)
+---
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bexultan
 ================================================================================================================================
 
 Future Data Scientist
 ---------------------
-
 I started to study programming in the 10th grade, at first I started with C++, and when I went to university I started to study python from the 2nd semester, since then I continue to study it and I also plan to study SQL, SCALA, R and ML.
 
 * 🌍  I'm based in Almaty
