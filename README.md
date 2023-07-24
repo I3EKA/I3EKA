@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Future Data Scientist
 ---------------------
-I started to study programming in the 10th grade, at first I started with C++, and when I went to university I started to study python from the 2nd semester, since then I continue to study it and I also plan to study SQL, SCALA, R and ML.
+I started to study programming in the 10th grade, at first I started with C++, and when I went to university I started to study python from the 2nd semester, since then I continue to study it and I also plan to study SQL and ML.
 
 * 🌍  I'm based in Almaty
 * ✉️  You can contact me at [b\_mustafin@kbtu.kz](mailto:b_mustafin@kbtu.kz)
