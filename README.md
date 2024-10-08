@@ -7,4 +7,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---------------------
 
 * 🌍  I'm based in Almaty
-* ✉️  You can contact me at [b\_mustafin@kbtu.kz](mailto:b_mustafin@kbtu.kz)
